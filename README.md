@@ -6,4 +6,4 @@ press S for down
 for right side slider
 press up arrow and down arrow
 
-CLICK HERE TO PLAY AND ENJOY :
+CLICK HERE TO PLAY AND ENJOY : https://shantanu-pokale.github.io/Pingpong_Game/
